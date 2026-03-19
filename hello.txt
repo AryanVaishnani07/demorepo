@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 klasjdkjaslkdjlk;h1
+=======
+This is good mornig
+>>>>>>> parent of 3bd4df9 (add branching)
